@@ -1,7 +1,8 @@
-public class YourName {
+public class yourname {
     public static void main(String[] args) {
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Your Name");
-        }
+        System.out.println("Your name");
+        System.out.println("Your name");
+        System.out.println("Your name");
+        System.out.println("Your name is awesome!");
     }
 }
